@@ -1,7 +1,7 @@
 # Valentine-v1-JAVA
 Use this code to propose your girl/boy for this valentine.
 
-This code is written for introverts who cannot directly ask their girl/boy about it. You just have to share the code or modify it and convert it to exe and then share. And as soon as your girl/boy runs it, they cannot exit the program unless they clicks on "Yes!". Note that they can still exist the program using task manager or alt+f4.
+This code is written for introverts who cannot directly ask their girl/boy about it. You just have to share the code or modify it and convert it to exe and then share. And as soon as your girl/boy runs it, they cannot exit the program unless they click on "Yes!". Note that they can still exist the program using task manager or alt+f4.
 
 Features:
 * Other person cannot exit the program unless the click on "Yes!".
