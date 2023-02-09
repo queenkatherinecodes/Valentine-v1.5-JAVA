@@ -27,7 +27,6 @@ Details about code:
 Get those resources:
 
 music.wav: https://drive.ayubackup.workers.dev/0:/music.wav
-
 1.png: https://drive.ayubackup.workers.dev/0:/1.png
 
 Check the code:
