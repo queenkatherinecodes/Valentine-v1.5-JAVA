@@ -25,7 +25,9 @@ Details about code:
 * You need to create audio and res folder outside src of project and paste music.wav in audio and 1.png in res.
 
 Get those resources:
+
 music.wav: https://drive.ayubackup.workers.dev/0:/music.wav
+
 1.png: https://drive.ayubackup.workers.dev/0:/1.png
 
 Check the code:
