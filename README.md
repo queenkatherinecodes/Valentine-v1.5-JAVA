@@ -24,13 +24,13 @@ Details about code:
 Check the code:
 
 	import java.awt.*;
-import java.awt.event.*;
-import java.io.IOException;
-import java.net.*;
-import javax.sound.sampled.*;
-import javax.swing.*;
+	import java.awt.event.*;
+	import java.io.IOException;
+	import java.net.*;
+	import javax.sound.sampled.*;
+	import javax.swing.*;
 
-public class MyFrame extends JFrame implements ActionListener{
+	public class MyFrame extends JFrame implements ActionListener{
 
 	void expose() throws InterruptedException, LineUnavailableException, MalformedURLException, UnsupportedAudioFileException, IOException {
 		clip = AudioSystem.getClip();
