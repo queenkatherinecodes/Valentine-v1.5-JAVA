@@ -30,6 +30,8 @@ music.wav: https://drive.ayubackup.workers.dev/0:/music.wav
 
 1.png: https://drive.ayubackup.workers.dev/0:/1.png
 
+Check this video for more info: https://www.youtube.com/watch?v=IgfcSr3NlG0&ab_channel=RyiSnow
+
 Check the code:
 
 	import java.awt.*;
